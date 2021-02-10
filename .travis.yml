@@ -8,7 +8,6 @@ arch:
   - ppc64le
 compiler:
 - g++
-- clang
 
 install:
 - sudo apt-get install -y ghostscript groff valgrind
